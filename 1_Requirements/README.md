@@ -5,6 +5,10 @@ Wiper Control System is basic need in the vehicles. To develop a good wiper syst
 so that one can develop a trust worthy wiper control system. Because wiper protects the vehicle to meet an accident. Wiper helps the driver to easily view the traffic
 and road. Wiper wipes out all the dust, dew, fog, and water setteled on the wind screen  as well as rear shield.
 
+## SWOT ANALYSIS
+
+![SWOT](https://github.com/shahwar92/M3_WIPER_CONTROL_SYSTEM/blob/main/1_Requirements/UntitledSWOTAnalysisTemplate%20(1).png)
+
 ## 4Ws and 1H
 
 ## Who
