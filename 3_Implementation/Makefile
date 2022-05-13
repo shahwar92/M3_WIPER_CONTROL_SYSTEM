@@ -1,6 +1,5 @@
 CC= arm-none-eabi-gcc
-MACH=cortex-m4
-CFLAGS=-c -mcpu=$(MACH) -mthumb -std=gnu11 -Wall -O0
+CFLAGS=-c -mcpu=cortex-m4 -mthumb -std=gnu11 -Wall -O0
 LDFLAGS= -nostdlib -T stm32_ls.ld
 all:main.o MyStm32f407xx_gpio_driver.o stm32_startup.o finalled.elf
 
