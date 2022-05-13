@@ -59,7 +59,7 @@ int main(void)
 	GPIO_Init(&GpioBtn);
 
 	uint32_t flag = 0;
-	uint32_t key_pressed = 0;  /
+	uint32_t key_pressed = 0;  
 
 	while (1)                                                           
 	{
@@ -136,7 +136,8 @@ void wiper_on(void)
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15,0 );
 }
 
-void wiper_off(void) 
+void wiper_off(void)
+{
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 	delay();
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, 0);
