@@ -9,7 +9,7 @@
 |HL_03|At The Time of ON Wiper|Pressed BUTTON THREE Times|ON Wiper|ON Wiper In ClockWise Direction|PASS|
 |HL_04|At The Time of OFF Wiper|Pressed BUTTON FOUR Times|OFF Wiper|OFF Wiper In Anti ClockWise Direction|PASS|
 
-## Low Level Test Cases :-
+## Low Level Test Cases :
 
 |**Test ID**|**Description**|**Exp input**|**Exp output**|**Actual output**|**Pass/Fail**|
 | :- | :-: | :-: | :-: | :-: | :-: |
