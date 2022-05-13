@@ -1,13 +1,3 @@
-/**
- * @file carwiper1.c
- * @author Stephen.J
- * @brief CAR WIPER CONTROL
- * @version 0.1
- * @date 2022-05-09
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 #include<stdint.h>
 
 #define SRAM_START  0x20000000U
